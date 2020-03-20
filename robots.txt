@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochaequi.xn--domnnamntillsalu-xnb.se/sitemap.xml
